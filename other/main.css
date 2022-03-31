@@ -74,3 +74,8 @@ articals ul li {
     list-style-type: none;
     display: inline-block;
 }
+
+.directory {
+    left: 10px;
+    position: absolute;
+}
